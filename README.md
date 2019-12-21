@@ -1,5 +1,5 @@
 # ALERT
-Нова версія (http://github.com/ZitroDev/WeCast2.0 "тут")!
+Нова версія [тут](http://github.com/ZitroDev/WeCast2.0 "тут")!
 
 
 
